@@ -29,6 +29,8 @@ Apart from reducing the financial cost and difficulty of learning programming la
 What surprised me the most was the way he substituted the programming display into the performance, which I admit is efficient, easy to modify, and easy for others to pick up and recreate. But it also makes it difficult for people who need to learn the programming language to break out of the programming routine that comes with the code, which creates a creative barrier for artists with low coding skills.
 
 **References:**
+
 [1]Vee, Annette. Coding Literacy. MIT Press, 2017. (pp. 1-38)
 [2]Blackwell, Alan F., Emma Cocker, Geoff Cox, Alex McLean, and Thor Magnusson. Live coding: a user's manual. MIT Press, 2022. (pp.  1-12) 
+
 [3]video - Sam Aaron - Programming as Performance
