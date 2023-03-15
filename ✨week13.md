@@ -8,14 +8,12 @@ Having gained a general understanding of Foucault's theory of power/knowledge th
 
 ![“IMG_4999”中](https://user-images.githubusercontent.com/57748663/225180197-2d9cbac5-4116-446c-92a8-ec93e88d0957.jpeg)
 
-![“IMG_5012”中](https://user-images.githubusercontent.com/57748663/225180219-1154b1b6-90fc-49fc-b79d-336ac2488202.jpeg)
-
 Firstly, in this exhibition, the curators have used the emotional line to influence and stimulate the audience to accept new knowledge. The moods of the primary audiences are captured according to their ebb and flow. The visual stimulus is provided by interesting videos, ornate furniture, and fascinating installations, such as small objects at the entrance that is interesting and sophisticated, which attract attention and interest, and animated works that are immediately romantic when one is tired of the many paintings and photographs, or installations that are new to the furniture and decorative objects. The curators calculate the length of time it takes to view the exhibits and provide the appropriate visual stimulus to continue to draw people in and drive them through the exhibition.
 
 As an exhibit in a public museum, its audience is likely to have no knowledge of the exhibition, and their subjective motivation to view this exhibition may be lower than the threshold of a so-called professional group as someone with little knowledge of Surrealism, the museum's creation of an emotional line can propel them through the exhibition and further influence people's understanding of the knowledge conveyed by the exhibition.
 
 However, it is essential to note that the exhibition's subjective identification with Surrealist culture is reinforced through its textual output. Still, the environment of the exhibition space is sequential. It reveals a sense of rationality and repression, which visually undermines the spiritual core of the exhibition - dreams and desires - that it wishes to convey. (The red sofa in the furniture collection is an exception)
-
+![“IMG_5012”中](https://user-images.githubusercontent.com/57748663/225180219-1154b1b6-90fc-49fc-b79d-336ac2488202.jpeg)
 ![image](https://user-images.githubusercontent.com/57748663/225179323-0cda4e8e-a1cc-4928-9e5b-1630a30cc995.png)
 ![image](https://user-images.githubusercontent.com/57748663/225179525-7e80a810-cb98-44d6-92e3-dc22dbf3c348.png)
 
