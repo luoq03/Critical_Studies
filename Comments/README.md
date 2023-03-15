@@ -10,4 +10,12 @@ Finally, the author offers a perspective on the influence and potential of combi
 
 Overall, the assessment shows a deep understanding of the subject and reflects on the role of technology in enhancing human expression and our relationship with nature.
 
+## Week 13 _ The design museum---Xinyue Zhao##
 
+The author experiences two distinct design narratives in two exhibitions at the Design Museum, Designer-Maker-User and Objects of Desire, and concludes that curators rely on different records to shape people's understanding of their subject matter. The importance of curation in shaping people's version of the subject matter is highlighted.
+
+The authors argue that in Designer-Maker-User, the exhibition focuses on design's functional and commercial aspects, emphasising standardisation and user experience. In contrast, Objects of Desire explores the influence of surrealist thinking on innovation, rejecting rational and logical constraints and exploring the world of the subconscious and irrational.
+
+On the other hand, the author seeks to remind us of the need to look critically at the structures of knowledge in the exhibition. Power dynamics in society manifest themselves in various forms and can be observed in different aspects of social, political, economic and cultural life. Cultural institutions such as museums, galleries and media organisations play a crucial role in shaping social narratives and values through curation and media communication, which can reinforce or challenge existing power dynamics.
+
+Overall, the authors provide thought-provoking insights into the Design Museum's exhibition, giving us an insight into the importance of curation in shaping people's understanding of design and the need to think critically when looking at the narratives presented in the exhibition.
