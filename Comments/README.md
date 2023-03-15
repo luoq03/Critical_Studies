@@ -10,7 +10,7 @@ Finally, the author offers a perspective on the influence and potential of combi
 
 Overall, the assessment shows a deep understanding of the subject and reflects on the role of technology in enhancing human expression and our relationship with nature.
 
-## Week 13 _ The design museum---Xinyue Zhao##
+## The design museum---Xinyue Zhao##
 
 The author experiences two distinct design narratives in two exhibitions at the Design Museum, Designer-Maker-User and Objects of Desire, and concludes that curators rely on different records to shape people's understanding of their subject matter. The importance of curation in shaping people's version of the subject matter is highlighted.
 
