@@ -4,8 +4,6 @@ The exhibition presents a variety of representations of Surrealist design, such 
 
 Having gained a general understanding of Foucault's theory of power/knowledge through the documents given by the teacher before the field trip, I intend to focus on how proficiency is communicated to the audience and whether it is influenced by power (the museum) during the subsequent visits.
 
-<div align=center><img width="400" height="400"><img src="https://user-images.githubusercontent.com/57748663/225180154-f94d7c34-6e0a-42d5-84d3-021d5f461107.jpeg"></div>
-
 ![“IMG_4981”中](https://user-images.githubusercontent.com/57748663/225180187-1558c325-f79a-44c8-bec5-da7c375613f1.jpeg)
 
 ![“IMG_4999”中](https://user-images.githubusercontent.com/57748663/225180197-2d9cbac5-4116-446c-92a8-ec93e88d0957.jpeg)
