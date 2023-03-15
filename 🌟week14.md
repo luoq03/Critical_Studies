@@ -31,6 +31,7 @@ What surprised me the most was the way he substituted the programming display in
 **References:**
 
 [1]Vee, Annette. Coding Literacy. MIT Press, 2017. (pp. 1-38)
+
 [2]Blackwell, Alan F., Emma Cocker, Geoff Cox, Alex McLean, and Thor Magnusson. Live coding: a user's manual. MIT Press, 2022. (pp.  1-12) 
 
 [3]video - Sam Aaron - Programming as Performance
