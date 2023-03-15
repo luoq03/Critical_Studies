@@ -1,12 +1,12 @@
-#Week14-Coding Literacy
+# Week14-Coding Literacy
 
-What is literacy, and what does it mean to call computer programming literacy?
+## What is literacy, and what does it mean to call computer programming literacy?
 
 Literacy encompasses reading and writing and represents the essential skill of acquiring and applying knowledge. Before the advent of programming languages, when people knew characters and learned to accumulate them, they could pass on their knowledge through paper and pen. After writing and pen came printing technology, and since then, the range and possibilities of reading have been greatly enhanced. With the advent of programming languages, online communication became more widespread, information was more easily accessible, and programming languages broke down the barriers between different cultures even more. In a social context, literacy has preserved the continuity of civilisation and facilitated communication and integration between other regions and areas.
 
 At the same time, programming languages act as the new literacy, thinking and creating in terms of computers, for example, developing different software or artificial intelligence. This may lead to people needing a programming base losing the possibility to access and distribute information through programming. To cater for this new way of processing and presenting information, developers will continue to create new programming languages, which will become more abstract and further expand the coverage of data and the functionality of each platform by programming languages. In the future, using a programming language will be easier for everyone than paper and pen today. As technology and software become increasingly integrated into our daily lives, programming will become ubiquitous, and this is the beauty of programming languages.
 
-The new thoughts :
+## The new thoughts :
 
 'Computer programming is augmenting an already diverse array of communication skills important in everyday life. Because of the computer's primary role in all digital literacies, programming's augmentation of literacy funda mentally reconfigures it. The computer's primary role in all digital literacies and programming's augmentation of literacy funds mentally reconfigures it. Literacy becomes much larger, and the relationships and practices it characterises change as it grows. When literacy includes coding, the ways we experience, teach, and move with our skills, social paradigms, communication technologies, and information all shift.'
 
