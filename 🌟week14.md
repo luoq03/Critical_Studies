@@ -16,7 +16,7 @@ The author highlights that programming is about to become a more widely held and
 
 In the book, the authors emphasise the random and subjective nature of real-time coding and how it works. The audience's participation needs to be clearly defined. Still, the coding skills of the audience need to be clearly defined, which may or may not create technical barriers or make it less entertaining. At the same time, it will test the resilience and ethics of the live coders even more.
 
-The moment that made me understand his position was when he asked people in the room, 'why do people who are not professional writers need to learn to read and write'. Programming languages exist not as a way to get a job or make money but as one of the most creative development tools that will affect people's social lives shortly. Unfortunately, we have yet to discover it.
+The moment that made me understand his position was when he asked people in the room, 'why do people who are not professional writers need to learn to read and write‘. Programming languages exist not as a way to get a job or make money but as one of the most creative development tools that will affect people's social lives shortly. Unfortunately, we have yet to discover it.
 Two points that inspired me to think were.
 
 Apart from reducing the financial cost and difficulty of learning programming languages, the most important thing is to create the motivation and opportunity for people to learn programming languages and how to make it a smooth and painless learning process.
