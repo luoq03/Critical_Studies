@@ -1,4 +1,4 @@
-#COMMENTS
+# COMMENTS
 
 ## Exploring the Intersection of Technology and Human Expression: A Study of 'The Treachery of Sanctuary'---Yiren Wang
 
